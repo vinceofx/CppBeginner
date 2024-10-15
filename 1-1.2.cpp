@@ -12,7 +12,7 @@ int main() {  //主函数入口
 }
 */
 
-int a() {
+int a2() {
 	int age;
 	cout << "请输入你的年龄";
 	cin >> age; //用户输入他的年龄

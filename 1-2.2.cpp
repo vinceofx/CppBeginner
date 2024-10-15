@@ -5,11 +5,12 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int c() {
 	// 定义2个常量
 	const float PI = 3.14;// 永恒不变的派，3.1415926
 	const int week = 7;	// 一周永不改变的7天
 
 	cout << PI << endl;
 	cout << week << endl;
+	return 0;
 }

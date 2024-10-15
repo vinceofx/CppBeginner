@@ -15,25 +15,46 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Lesson1-2.cpp">
+    <ClCompile Include="1-1.2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Lesson1-1.cpp">
+    <ClCompile Include="1-1.1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="LessonExercises1.cpp">
+    <ClCompile Include="ex1-1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Lesson2-1.cpp">
+    <ClCompile Include="1-1.3.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Lesson2-2.cpp">
+    <ClCompile Include="1-2.1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Lesson2-3.cpp">
+    <ClCompile Include="1-2.2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Lesson2-4.cpp">
+    <ClCompile Include="1-2.3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1-3.1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1-3.2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1-3.3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1-3.4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1-3.5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ex1-3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ex1-4.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
